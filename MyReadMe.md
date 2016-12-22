@@ -13,15 +13,20 @@ ln -s ${SRC_HOME}/CodeSnippets ~/Library/Developer/Xcode/UserData/CodeSnippets
 在不同机子上使用统一的CodeSnippets，只需要一次`git clone`,` setup_snippets.sh`，以后只需要`git push` ，`git pull`维护版本库的更新即可
 
 
+### 安装dmg
 
-
-
-
-
-
-
-
-
+1. 先找到dmg安装文件路径` MOUNTDIR`
+2.  installer -pkg即可
+```shell
+MOUNTDIR=$(echo `hdiutil mount Packages.dmg | tail -1 \
+| awk '{$1=$2=""; print $0}'` | xargs -0 echo) \
+&& sudo installer -pkg "${MOUNTDIR}/"*.pkg -target /
+rm -rf "Packages.dmg"
+```
+> 注:当dmg中的安装文件是.app,直接食用cp命令:
+```shell
+cp -rf  Docker.app Applications
+```
 
 
 
