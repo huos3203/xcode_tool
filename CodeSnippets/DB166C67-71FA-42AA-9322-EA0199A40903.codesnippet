@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>--- 
+&lt;!--Front-matter--&gt;
+title: &lt;#标题#&gt;
+date: &lt;#创建时间#&gt;
+updated: &lt;#更新时间#&gt;
+comments: true
+tags: [&lt;#boyer#&gt;,&lt;#tag1#&gt;,&lt;#tag2#&gt;,&lt;#tag3,...#&gt;]
+categories: 
+keywords: &lt;#boyer#&gt;,&lt;#IOS#&gt;,&lt;#热词#&gt;
+permalink: &lt;#永久链接#&gt;
+---</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DB166C67-71FA-42AA-9322-EA0199A40903</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Hexo init</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
