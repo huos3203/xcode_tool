@@ -10,7 +10,7 @@ ln -s ${SRC_HOME}/CodeSnippets ~/Library/Developer/Xcode/UserData/CodeSnippets
 这样以后在Xcode 中任意新建的CodeSnippets都会自动保存在版本库中
 
 总结：
-只需要一次setup_snippets.sh，以后只需要`git push` ，`git pull`维护版本库的更新即可
+在不同机子上使用统一的CodeSnippets，只需要一次`git clone`,` setup_snippets.sh`，以后只需要`git push` ，`git pull`维护版本库的更新即可
 
 
 
