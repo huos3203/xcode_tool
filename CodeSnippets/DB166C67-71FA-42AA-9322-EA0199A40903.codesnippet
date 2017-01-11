@@ -7,7 +7,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>--- 
+	<string>---
 &lt;!--Front-matter--&gt;
 title: &lt;#标题#&gt;
 date: &lt;#创建时间#&gt;
@@ -27,6 +27,6 @@ permalink: &lt;#永久链接#&gt;
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
