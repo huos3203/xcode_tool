@@ -2,28 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mas_update</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>--- 
-&lt;!--Front-matter--&gt;
-title: &lt;#标题#&gt;
-date: &lt;#创建时间#&gt;
-updated: &lt;#更新时间#&gt;
-comments: true
-tags: [&lt;#boyer#&gt;,&lt;#tag1#&gt;,&lt;#tag2#&gt;,&lt;#tag3,...#&gt;]
-categories: 
-keywords: &lt;#boyer#&gt;,&lt;#IOS#&gt;,&lt;#热词#&gt;
-permalink: &lt;#永久链接#&gt;
----</string>
+	<string>[&lt;#view#&gt; mas_updateConstraints:^(MASConstraintMaker *make){
+    &lt;#code#&gt;
+}];
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DB166C67-71FA-42AA-9322-EA0199A40903</string>
+	<string>CF088737-121D-4166-97B0-D8AB63696B08</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Hexo init</string>
+	<string>Masonry Constraint Update</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
