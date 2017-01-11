@@ -8,24 +8,18 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>---
-title: &lt;#标题#&gt;
-date: &lt;#创建时间#&gt;
-updated: &lt;#更新时间#&gt;
-comments: true
-tags: [&lt;#boyer#&gt;,&lt;#tag1#&gt;,&lt;#tag2#&gt;,&lt;#tag3,...#&gt;]
-categories: 
-keywords: &lt;#boyer#&gt;,&lt;#IOS#&gt;,&lt;#热词#&gt;
-permalink: &lt;#永久链接#&gt;
+title: &lt;#草稿#&gt;
+tags:
 ---</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DB166C67-71FA-42AA-9322-EA0199A40903</string>
+	<string>256B35CA-D01E-4ED9-A5AC-720B4A08E3D8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Markdown</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Hexo 博客</string>
+	<string>Hexo 草稿</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
