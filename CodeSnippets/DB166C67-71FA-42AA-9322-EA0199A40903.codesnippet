@@ -12,8 +12,8 @@ title: &lt;#标题#&gt;
 date: &lt;#创建时间#&gt;
 updated: &lt;#更新时间#&gt;
 comments: true
-tags: [&lt;#boyer#&gt;,&lt;#tag1#&gt;,&lt;#tag2#&gt;,&lt;#tag3,...#&gt;]
-categories: 
+tags: [&lt;#工具#&gt;,&lt;#经历#&gt;,&lt;#搭建#&gt;,&lt;#语法#&gt;,&lt;#UI#&gt;,&lt;#测试#&gt;,&lt;#管理#&gt;,&lt;#混编#&gt;]
+categories: &lt;#swift,Xcode,Ruby,Git,Docker,管理#&gt;
 keywords: &lt;#boyer#&gt;,&lt;#IOS#&gt;,&lt;#热词#&gt;
 permalink: &lt;#永久链接#&gt;
 ---</string>
