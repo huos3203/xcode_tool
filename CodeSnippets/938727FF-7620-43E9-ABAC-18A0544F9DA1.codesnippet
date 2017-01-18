@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>StringOrComment</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>|&lt;#title1#&gt;|&lt;#title2#&gt;|&lt;#title3#&gt;|
+|:-------|:-------|:--------|
+|&lt;#文本内容#&gt; |&lt;#文本内容#&gt;| &lt;#文本内容#&gt; |</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>938727FF-7620-43E9-ABAC-18A0544F9DA1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>hexo表格</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
