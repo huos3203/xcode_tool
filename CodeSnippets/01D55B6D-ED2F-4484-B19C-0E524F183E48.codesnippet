@@ -4,25 +4,18 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>---
-title: &lt;#标题#&gt;
-date: &lt;#创建时间#&gt;
-updated: &lt;#更新时间#&gt;
-comments: true
-tags: [&lt;#工具#&gt;,&lt;#经历#&gt;,&lt;#搭建#&gt;,&lt;#语法#&gt;,&lt;#UI#&gt;,&lt;#测试#&gt;,&lt;#管理#&gt;,&lt;#混编#&gt;,&lt;#SDK#&gt;]
-categories: &lt;#swift,Xcode,Ruby,Git,Docker,管理#&gt;
-keywords: &lt;#boyer#&gt;,&lt;#IOS#&gt;,&lt;#热词#&gt;
-permalink: &lt;#永久链接#&gt;
----</string>
+	<string>{% blockquote &lt;#作者,source#&gt; &lt;#link#&gt; &lt;#link_title#&gt; %}
+content
+{% endblockquote %}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DB166C67-71FA-42AA-9322-EA0199A40903</string>
+	<string>01D55B6D-ED2F-4484-B19C-0E524F183E48</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Markdown</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Hexo 博客</string>
+	<string>hexo引用块</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
