@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vfl</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#self.translatesAutoresizingMaskIntoConstraints = false#&gt;
+NSLayoutConstraint.constraints(withVisualFormat: "&lt;#H|V#&gt;:|-0-[&lt;#viewKey#&gt;]-0-|",
+                                                                                      options: [],
+                                                                                      metrics: nil,
+                                                                                      views: ["&lt;#viewKey#&gt;":&lt;#view#&gt;])</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3883B114-05B1-4307-8DEC-220263938F3D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>VFL-swift</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
