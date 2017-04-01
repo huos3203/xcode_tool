@@ -7,14 +7,16 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xcodebuild -project &lt;#PROJECT_NAME#&gt;.xcodeproj -target &lt;#TARGET_NAME#&gt; -configuration Debug -showBuildSettings
-</string>
+	<string>buildNumber=$(/usr/libexec/PlistBuddy -c "Print CFBundleVersion" "$INFOPLIST_FILE")
+buildNumber=$(($buildNumber + 1))
+echo $buildNumber
+/usr/libexec/PlistBuddy -c "Set :CFBundleVersion $buildNumber" "$INFOPLIST_FILE"</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3C524C44-586D-4B57-991A-E167B81F53E8</string>
+	<string>3E8F18AA-3049-47B9-B0A0-CADB48A166E5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.BourneShellScript</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Target环境变量</string>
+	<string>shell递增版本号</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

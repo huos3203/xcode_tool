@@ -4,20 +4,19 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xcodebuild -project &lt;#PROJECT_NAME#&gt;.xcodeproj -target &lt;#TARGET_NAME#&gt; -configuration Debug -showBuildSettings
-</string>
+	<string>scp -r &lt;#dir/#&gt; &lt;#username#&gt;@&lt;#hostURL#&gt;:/Users/&lt;#username#&gt;/&lt;#dir#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3C524C44-586D-4B57-991A-E167B81F53E8</string>
+	<string>522ACE6C-397B-49A8-8336-0BA0DA4FB384</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Target环境变量</string>
+	<string>SSH拷贝</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

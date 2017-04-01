@@ -7,14 +7,15 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xcodebuild -project &lt;#PROJECT_NAME#&gt;.xcodeproj -target &lt;#TARGET_NAME#&gt; -configuration Debug -showBuildSettings
-</string>
+	<string>xcrun -find &lt;#swift|xcode-select|xcodebuild#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3C524C44-586D-4B57-991A-E167B81F53E8</string>
+	<string>F6DB0728-E7EB-4BF6-B642-57EC9513A87D</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>查询可执行命令</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Target环境变量</string>
+	<string>xcrun</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

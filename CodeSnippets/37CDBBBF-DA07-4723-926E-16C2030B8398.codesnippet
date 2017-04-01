@@ -4,17 +4,16 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xcodebuild -project &lt;#PROJECT_NAME#&gt;.xcodeproj -target &lt;#TARGET_NAME#&gt; -configuration Debug -showBuildSettings
-</string>
+	<string>git archive master --prefix="&lt;#PROJECT_DIR#&gt;/" --format=zip &gt; `git describe master`.zip</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3C524C44-586D-4B57-991A-E167B81F53E8</string>
+	<string>37CDBBBF-DA07-4723-926E-16C2030B8398</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Target环境变量</string>
+	<string>git-归档</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
