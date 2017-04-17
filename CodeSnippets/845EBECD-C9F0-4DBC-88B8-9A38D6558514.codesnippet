@@ -4,19 +4,19 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>scp -r &lt;#dir/#&gt; &lt;#username#&gt;@&lt;#hostURL#&gt;:/Users/&lt;#username#&gt;/&lt;#dir#&gt;</string>
+	<string>pinternals self</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>522ACE6C-397B-49A8-8336-0BA0DA4FB384</string>
+	<string>845EBECD-C9F0-4DBC-88B8-9A38D6558514</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SSH拷贝</string>
+	<string>lldb实例内容</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

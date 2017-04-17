@@ -4,19 +4,19 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>scp -r &lt;#dir/#&gt; &lt;#username#&gt;@&lt;#hostURL#&gt;:/Users/&lt;#username#&gt;/&lt;#dir#&gt;</string>
+	<string>mask -c 'red' &lt;#layer#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>522ACE6C-397B-49A8-8336-0BA0DA4FB384</string>
+	<string>16C7317D-987B-47DF-A5C0-3EDBE8A634A8</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SSH拷贝</string>
+	<string>lldb图层遮罩</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
