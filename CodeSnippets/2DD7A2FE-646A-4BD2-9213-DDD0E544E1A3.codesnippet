@@ -4,16 +4,19 @@
 <dict>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pviews &lt;#View#&gt;</string>
+	<string>exp UIView *$view=(UIView *)0x147b9d20
+exp UITableView *$qw=(UITableView*)0x147b9d20
+exp -- (void)[$view setFrame:CGRectMake(0 ,$qw.contentSize.height-50, 320, 30)]
+caflush</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0F12426A-C599-491B-85DD-18E638B02F7A</string>
+	<string>2DD7A2FE-646A-4BD2-9213-DDD0E544E1A3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>lldb视图内容</string>
+	<string>lldb更新UI</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
