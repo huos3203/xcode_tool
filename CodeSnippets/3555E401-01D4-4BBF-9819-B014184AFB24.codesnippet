@@ -7,7 +7,10 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#object1#&gt; &lt;#&lt;|-up/down- , *-left- , o-right-#&gt; "&lt;#基数#&gt;"&lt;#object2#&gt;:&lt;#标签#&gt;</string>
+	<string>&lt;#object1#&gt; &lt;#&lt;|-up/down- , *-left- , o-right-#&gt; "&lt;#基数#&gt;"&lt;#object2#&gt;:&lt;#标签#&gt;
+note &lt;#left/right/top/bottom#&gt;
+&lt;#支持markdown语法加粗／斜体／删除线／下划线／波浪下划线 和HTML#&gt;
+end note</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3555E401-01D4-4BBF-9819-B014184AFB24</string>
 	<key>IDECodeSnippetLanguage</key>

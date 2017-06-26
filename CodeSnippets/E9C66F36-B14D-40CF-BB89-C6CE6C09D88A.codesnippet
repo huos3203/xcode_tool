@@ -10,7 +10,8 @@
 	<string>object &lt;#对象#&gt;{
    &lt;#+,-,*,# #&gt; &lt;#参数1#&gt; = &lt;#值1#&gt;
    &lt;#+,-,*,# #&gt; &lt;#参数2#&gt;-= &lt;#值2#&gt;
-}</string>
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9C66F36-B14D-40CF-BB89-C6CE6C09D88A</string>
 	<key>IDECodeSnippetLanguage</key>
