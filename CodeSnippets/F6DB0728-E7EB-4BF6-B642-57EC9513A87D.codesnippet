@@ -7,7 +7,7 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xcrun -find &lt;#swift|xcode-select|xcodebuild#&gt;</string>
+	<string>xcrun -find swift|xcode-select|xcodebuild</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6DB0728-E7EB-4BF6-B642-57EC9513A87D</string>
 	<key>IDECodeSnippetLanguage</key>
