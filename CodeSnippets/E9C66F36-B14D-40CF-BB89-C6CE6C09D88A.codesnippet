@@ -8,8 +8,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>object &lt;#对象#&gt;{
-   &lt;#+,-,*,# #&gt; &lt;#参数1#&gt; = &lt;#值1#&gt;
-   &lt;#+,-,*,# #&gt; &lt;#参数2#&gt;-= &lt;#值2#&gt;
+   &lt;#+,-,*,#,~#&gt; &lt;#参数1#&gt; = &lt;#值1#&gt;
+   &lt;#+,-,*,#,~#&gt; &lt;#参数2#&gt;-= &lt;#值2#&gt;
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
