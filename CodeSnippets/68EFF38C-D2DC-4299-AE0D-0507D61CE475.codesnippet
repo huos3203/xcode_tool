@@ -8,29 +8,32 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>```puml
-title &lt;#uml模型图题目#&gt;
+title &lt;#列表演示#&gt;
 center header
-&lt;#在此处添加标头#&gt;
+&lt;#标头#&gt;
 endheader
-
-'&lt;#类图#&gt;'
-
-==&lt;#模块分隔符#&gt;==
-
+@startuml
+== &lt;#分隔符#&gt; ==
+&lt;#参与者#&gt; -&gt; &lt;#参与者2#&gt;: &lt;#消息#&gt;
+&lt;#参与者#&gt; --&gt; &lt;#参与者2#&gt;: &lt;#消息#&gt;
+note right
+&lt;#这是一条线的说明 **加粗的样子**#&gt;
+end note
 
 center footer
-'&lt;#在此处添加脚注#&gt;'
+&lt;#脚注#&gt;
 endfooter
+@enduml
 ```</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3D935F5E-DED0-45D2-93DB-9FF84D2280F6</string>
+	<string>68EFF38C-D2DC-4299-AE0D-0507D61CE475</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml块</string>
+	<string>puml时序图块</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
