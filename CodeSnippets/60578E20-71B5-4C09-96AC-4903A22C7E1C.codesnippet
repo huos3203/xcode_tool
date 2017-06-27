@@ -3,37 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>puml</string>
+	<string>plr</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>```puml
-title &lt;#uml模型图题目支持MD#&gt;
-center header
-&lt;#在此处添加标头#&gt;
-endheader
-
-&lt;#uml图块体#&gt;
-
-center footer
-&lt;#在此处添加脚注#&gt;
-endfooter
-```</string>
+	<string>left to right direction</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3D935F5E-DED0-45D2-93DB-9FF84D2280F6</string>
+	<string>60578E20-71B5-4C09-96AC-4903A22C7E1C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Markdown</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>macosx</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>在md文件中添加puml语法块，支持标题，标头，脚注</string>
+	<string>仅适用于用例图，指定参与者和关系连线的布局方向</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml语法块</string>
+	<string>puml用例图左右布局</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
