@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pas</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -11,7 +13,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C445A37-E1D5-43C0-901F-3918F299A2E0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>指定类和对象的别名，实现类名更详实的描述方式</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>puml长别名</string>
 	<key>IDECodeSnippetUserSnippet</key>

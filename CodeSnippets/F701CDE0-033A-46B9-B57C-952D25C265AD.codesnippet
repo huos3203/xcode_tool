@@ -2,18 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pon</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>note &lt;#left/right/top/bottom#&gt; of &lt;#object#&gt; : &lt;#注释内容#&gt;</string>
+	<string>note &lt;#left/right/top/bottom#&gt; of &lt;#object#&gt; #&lt;#颜色#&gt;: &lt;#注释信息支持md语法#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F701CDE0-033A-46B9-B57C-952D25C265AD</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>在类／对象 周边（left/right/top/bottom）提供浮动注释</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml浮动注释块</string>
+	<string>puml对象单行注释</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

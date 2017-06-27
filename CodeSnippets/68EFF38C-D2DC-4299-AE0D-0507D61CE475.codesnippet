@@ -7,33 +7,20 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>```puml
-title &lt;#列表演示#&gt;
-center header
-&lt;#标头#&gt;
-endheader
-@startuml
-== &lt;#分隔符#&gt; ==
+	<string>== &lt;#分隔符#&gt; ==
 &lt;#参与者#&gt; -&gt; &lt;#参与者2#&gt;: &lt;#消息#&gt;
-&lt;#参与者#&gt; --&gt; &lt;#参与者2#&gt;: &lt;#消息#&gt;
-note right
-&lt;#这是一条线的说明 **加粗的样子**#&gt;
-end note
-
-center footer
-&lt;#脚注#&gt;
-endfooter
-@enduml
-```</string>
+&lt;#参与者#&gt; --&gt; &lt;#参与者2#&gt;: &lt;#消息#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68EFF38C-D2DC-4299-AE0D-0507D61CE475</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>在时序图中，只能使用-&gt;,--&gt;来表示关系链接线，支持== 分隔符 ==</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>puml时序图块</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
