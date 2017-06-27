@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pp</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>scale  &lt;#750#&gt; &lt;#width/height#&gt;
+package &lt;#module名#&gt; &lt;&lt;&lt;#模块样式#&gt;&gt;&gt; &lt;##背景色#&gt;{
+&lt;#模块内部类图#&gt;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6F173730-080E-497E-AE49-D63B9D19022F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>封装类图package包，类似于Framework，swift中的module块概念
+模块样式:Node/Rectangle/Folder/Frame/Cloud/Database</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml模块化类图集</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

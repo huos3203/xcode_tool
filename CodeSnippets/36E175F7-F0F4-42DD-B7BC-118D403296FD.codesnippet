@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class &lt;#类名#&gt;&lt;&lt;#扩展对象#&gt;&gt;{
+    -- &lt;#属性组名#&gt; --
+    &lt;#访问域修饰符#&gt;  &lt;#属性名称#&gt;:&lt;#类型#&gt; = &lt;#值1#&gt;
+    __ &lt;#函数组名#&gt; __
+&lt;#访问域修饰符#&gt; func &lt;#函数名称#&gt;(&lt;#参数1#&gt;:&lt;#类型#&gt;,&lt;#参数2#&gt;:&lt;#类型#&gt;)
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>36E175F7-F0F4-42DD-B7BC-118D403296FD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>'类修饰符:(class)类|(abstract)抽象|(interface)接口|(enum)枚举|(annotation)注解'
+'类分组符：(--)实线、(..)虚线、(==)双实线、(__)描边实线'
+'访问域修饰符：(-)私有、(#)保护、(~)包私有、(+)共有'</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml类声明</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
