@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pl</string>
+	<string>plv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#object1#&gt;"&lt;#基数#&gt;" &lt;#节点符#&gt;--&lt;#节点符#&gt; "&lt;#基数#&gt;"&lt;#object2#&gt;:&lt;#消息#&gt;</string>
+	<string>&lt;#object1#&gt;"&lt;#基数#&gt;" &lt;#节点符#&gt;-&lt;#left/right..#&gt;&lt;#[#线色]#&gt;-&lt;#节点符#&gt; "&lt;#基数#&gt;"&lt;#object2#&gt;:&lt;#消息#&gt; &gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3555E401-01D4-4BBF-9819-B014184AFB24</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -20,7 +20,7 @@
 	<string>关系节点符:(|&gt;)继承,(*)合成 ,(o)聚合, 其他#,x,},+,^ 连线符:(--)实线 ，(..)虚线
 支持类关系，对象关系，模块关系</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml连线关系符</string>
+	<string>puml垂直关系连线</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

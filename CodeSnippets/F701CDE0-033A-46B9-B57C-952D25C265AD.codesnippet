@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>在类／对象 周边（left/right/top/bottom）提供浮动注释</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml对象单行注释</string>
+	<string>puml单行注释对象/参与者</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

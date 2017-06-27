@@ -3,28 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pon</string>
+	<string>phv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>note &lt;#left/right/top/bottom#&gt; of &lt;#object#&gt; #&lt;#颜色#&gt;
-&lt;#支持markdown语法加粗／斜体／删除线／下划线／波浪下划线 和HTML#&gt;
-end note</string>
+	<string>page &lt;#hpages#&gt;x&lt;#vpages#&gt;
+skinparam pageMargin &lt;#5#&gt;
+skinparam pageExternalColor &lt;#blue#&gt;
+skinparam pageBorderColor &lt;#black#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>89C847E4-EC6E-408B-8739-582810C35FB9</string>
+	<string>2EF08494-BC43-4712-BD28-E7712F194E67</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Markdown</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>macosx</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>当紧跟类／对象时，可以在对象周边添加多行注释，支持markdown语法，加粗，下划线，删除线，嵌入图片等</string>
+	<string>把一张uml图拆分为指定的块数</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml对象／参与者注释块</string>
+	<string>puml拆分大文件</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
