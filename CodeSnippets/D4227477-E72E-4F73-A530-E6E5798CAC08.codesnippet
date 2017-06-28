@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pas</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>|&lt;##颜色#&gt; | &lt;#泳道名称#&gt;|
+:&lt;#当前泳道活动#&gt;;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D4227477-E72E-4F73-A530-E6E5798CAC08</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>泳道支持颜色设置</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图泳道快</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

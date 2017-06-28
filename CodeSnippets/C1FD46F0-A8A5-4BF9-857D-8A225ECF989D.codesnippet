@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pan</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>floating note left: &lt;#活动备注#&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C1FD46F0-A8A5-4BF9-857D-8A225ECF989D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>floating 浮动注释的位置</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图浮动单行注释</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

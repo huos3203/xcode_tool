@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pap</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>partition &lt;#活动组名#&gt;{
+       :&lt;#单元活动名称#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>19B1E110-9810-40BA-A1DB-0F463747EB18</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>partition关键字来组合多个活动</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图组合块</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

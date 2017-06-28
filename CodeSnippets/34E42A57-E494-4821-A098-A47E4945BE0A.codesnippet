@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>par</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>repeat
+:&lt;#循环活动#&gt;;
+repeat while (&lt;#环境条件#&gt;)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>34E42A57-E494-4821-A098-A47E4945BE0A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>当条件满足时，重复执行一项活动</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图循环控制流</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

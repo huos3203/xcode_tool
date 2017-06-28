@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pal</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>-[&lt;#颜色#&gt;]-&gt; &lt;#线备注#&gt;;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7364F30D-1CDC-4103-B1E3-B0AE9B1A72DF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>连接线默认不用添加，以单元行形式顺序自上而下排序连接在一起，当需要自定义时，活动图中的对象／关系连线都是以分号结束</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图连接线</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

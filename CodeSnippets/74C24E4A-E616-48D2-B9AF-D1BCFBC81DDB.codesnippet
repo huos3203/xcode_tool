@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pai</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>if(&lt;#环境条件#&gt;) then (&lt;#分流线名#&gt;)
+      :&lt;#分支1活动#&gt;;
+elseif(&lt;#分流线名#&gt;)
+      :&lt;#分支2活动#&gt;;
+else (&lt;#分流线名#&gt;)
+      :&lt;#分支3活动#&gt;;
+endif</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>74C24E4A-E616-48D2-B9AF-D1BCFBC81DDB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>if （环境条件） then（线属性）elseif   else等分支</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml活动图条件语句</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
