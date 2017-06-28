@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pcp</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>'package,node,folder,frame,cloud,database'
+&lt;#组合样式#&gt; "&lt;#组合名#&gt;"{
+     &lt;#组合组件#&gt; | &lt;#单个组件#&gt;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2CD79738-AC5A-45C7-8D9E-E563A36855F9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>组合组件样式:package,node,folder,frame,cloud,database</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml组合组件</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
