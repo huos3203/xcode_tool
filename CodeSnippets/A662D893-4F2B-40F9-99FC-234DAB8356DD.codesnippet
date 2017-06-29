@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>类之间关系链接线上的注释，支持设置浮动块的背景色</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml连接线单行注释</string>
+	<string>puml类线单行注释 线连接末尾位置</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

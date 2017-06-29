@@ -21,7 +21,7 @@ end note</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>在两个类之间的连接线上添加注释，支持设置注释块的背景色等</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>puml连接线注释块</string>
+	<string>pumlpuml类线注释块 线连接末尾位置</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
