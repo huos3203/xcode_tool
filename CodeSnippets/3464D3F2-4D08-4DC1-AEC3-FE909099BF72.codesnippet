@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#  $0文件路径，$1 参数1  $2 参数2 等
+function lnfsToFile()
+{
+    lnfile=~/$2
+    if [ -f $lnfile ]
+    then
+        echo $lnfile"已存在"
+    else
+        #制作替身
+        file=$vimdir"/"$1
+        echo "ln -fs $file $lnfile"
+        ln -fs $file $lnfile
+    fi
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3464D3F2-4D08-4DC1-AEC3-FE909099BF72</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>函数声明，放在调用之前声明，获取参数值从$1开始</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>shell函数</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
